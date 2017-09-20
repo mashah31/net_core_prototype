@@ -1,0 +1,29 @@
+{
+  "rejection_types": [
+    "8D",
+    "AIM",
+    "CAR",
+    "Concern",
+    "DI",
+    "DM",
+    "E-CIMS",
+    "FRS",
+    "HTR",
+    "LuK NCR",
+    "MRB",
+    "NC",
+    "NCT",
+    "Near Miss",
+    "OSHA",
+    "PPIR",
+    "PRC",
+    "PRR",
+    "PRTS",
+    "QB",
+    "QPR/QIR",
+    "QR",
+    "SCAR",
+    "SQN",
+    "Supplier #"
+  ]  
+}

@@ -1,0 +1,137 @@
+{
+  "8DTypes": [
+    {
+      "type": "Audit",
+      "sapcode": "",
+      "sapsubcode": "",
+      "used": ""
+    },
+    {
+      "type": "Customer (Dissatisfaction)",
+      "sapcode": "QA",
+      "sapsubcode": "AH",
+      "used": "INOR"
+    },
+    {
+      "type": "Customer (Prototype)",
+      "sapcode": "QA",
+      "sapsubcode": "AM",
+      "used": "INOR"
+    },
+    {
+      "type": "Customer (Schaeffler)",
+      "sapcode": "QA",
+      "sapsubcode": "IAF",
+      "used": "INOR"
+    },
+    {
+      "type": "Customer (Responsible)",
+      "sapcode": "QA",
+      "sapsubcode": "AF",
+      "used": "EXOR"
+    },
+    {
+      "type": "Customer (Sales)",
+      "sapcode": "QA",
+      "sapsubcode": "LV",
+      "used": "INOR"
+    },
+    {
+      "type": "Customer (Shipping)",
+      "sapcode": "QA",
+      "sapsubcode": "LW",
+      "used": "INOR"
+    },
+    {
+      "type": "Customer (Supplier)",
+      "sapcode": "QA",
+      "sapsubcode": "",
+      "used": ""
+    },
+    {
+      "type": "Customer",
+      "sapcode": "QA",
+      "sapsubcode": "AF",
+      "used": "INOR"
+    },
+    {
+      "type": "Department",
+      "sapcode": "",
+      "sapsubcode": "",
+      "used": ""
+    },
+    {
+      "type": "Financial",
+      "sapcode": "",
+      "sapsubcode": "",
+      "used": ""
+    },
+    {
+      "type": "Safety",
+      "sapcode": "",
+      "sapsubcode": "",
+      "used": ""
+    },
+    {
+      "type": "Supplier (PPAP)",
+      "sapcode": "QB",
+      "sapsubcode": "P002",
+      "used": "EXOR"
+    },
+    {
+      "type": "Supplier (Schaeffler)",
+      "sapcode": "QB",
+      "sapsubcode": "IAF",
+      "used": "EXOR"
+    },
+    {
+      "type": "Supplier (Tentative)",
+      "sapcode": "",
+      "sapsubcode": "",
+      "used": ""
+    },
+    {
+      "type": "Supplier",
+      "sapcode": "QB",
+      "sapsubcode": "P003",
+      "used": "EXOR"
+    },
+    {
+      "type": "Tool Room Supplier",
+      "sapcode": "QB",
+      "sapsubcode": "B003",
+      "used": "EXOR"
+    },
+    {
+      "type": "Warranty (Cust. Resp.)",
+      "sapcode": "QA",
+      "sapsubcode": "AA",
+      "used": "EXOR"
+    },
+    {
+      "type": "Warranty",
+      "sapcode": "QA",
+      "sapsubcode": "AA",
+      "used": "INOR"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+﻿<div class="modal-dialog">
+    <div class="modal-content">
+        <div class="modal-header">
+            {{message}}
+        </div>
+        <div class="modal-body">
+            <form class="form-inline" (ngSubmit)="submit()" #customerForm="ngForm">
+                <div class="form-group">
+                    <label class="sr-only" for="exampleInputCustomer">Customer</label>
+                    <input type="text" class="form-control" id="exampleInputCustomer" placeholder="Name of the customer ..." name="customer" [(ngModel)]="custObj.name" required>
+
+                    <label class="sr-only" for="exampleInputCustomerLocation">Customer Location</label>
+                    <input type="text" class="form-control" id="exampleInputCustomerLocation" placeholder="Location of the customer ..." name="customerLocation" [(ngModel)]="custObj.location" required>
+                </div>
+                <br />
+                <button type="submit" class="btn btn-primary" [disabled]="!customerForm.valid">{{submitBtn}}</button>
+                
+                <button type="submit" class="btn btn-info" (onclick)="cancel()" >Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>
+
